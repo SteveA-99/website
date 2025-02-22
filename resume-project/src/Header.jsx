@@ -1,8 +1,8 @@
 function Header(){
     
     return(
-        <header>
-            <h1>My Resume</h1>
+        <header> {/* add center CSS class */}
+            <h1>Hane/Steven</h1>
             <nav>
                 <ul>
                     <li><a href="#"></a>Home</li>
